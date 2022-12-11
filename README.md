@@ -14,6 +14,4 @@ OCR을 이용한 점자 대체 서비스 앱
 ## 기능소개
 * 이미지를 누르면 영상으로 이동합니다. 영상에서 음성출력 기능을 확인하실 수 있습니다.
 
-[![Video Label](http://img.youtube.com/vi/HnfVhFMrx7o/0.jpg)](https://youtu.be/HnfVhFMrx7o)
-
-![KakaoTalk_20221211_165730466](https://user-images.githubusercontent.com/112750700/206892977-a0575bc6-1bb4-4f82-8356-14becec283dd.gif)
+[![Video Label](https://user-images.githubusercontent.com/112750700/206892977-a0575bc6-1bb4-4f82-8356-14becec283dd.gif)](https://youtu.be/HnfVhFMrx7o)
