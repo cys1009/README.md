@@ -12,4 +12,4 @@ OCR을 이용한 점자 대체 서비스 앱
 * TTS (Text To Speech): 음성출력 기능을 위해 사용한 언어 모델링 프로세서
 * Zxing (Zebra Crossing): 바코드 스캔을 위해 사용한 바코드 이미지 처리 라이브러리
 ## 기능소개
-https://user-images.githubusercontent.com/112750700/206892874-6fec1c6d-115f-4aea-b9e6-a4e98eccd4ed.gif
+![KakaoTalk_20221211_165730466](https://user-images.githubusercontent.com/112750700/206892977-a0575bc6-1bb4-4f82-8356-14becec283dd.gif)
